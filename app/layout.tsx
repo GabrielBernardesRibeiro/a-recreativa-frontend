@@ -26,12 +26,6 @@ export const metadata: Metadata = {
   },
 };
 
-export const links = {
-  linkedin: "https://www.linkedin.com/in/gabrielbernardesr",
-  github: "https://github.com/GabrielBernardesRibeiro",
-  personalWebsite: "https://bernardes.dev.br",
-};
-
 export default function RootLayout({
   children,
 }: Readonly<{
